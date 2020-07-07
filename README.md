@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mediocre developer who can't seem to get his act together and work on all the projects that are in his head.
+I'm a mediocre developer who can't seem to get my act together and work on all the projects that are in my head.
 <!--
 **evild70/evild70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
