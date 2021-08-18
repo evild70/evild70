@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mediocre developer who can't seem to get his act together and work on all the projects that are in his head. This has been going on for 20+ years.
+I'm a mediocre developer that can't seem to get my act together and work on all the projects that are in my head. This has been going on for 20+ years.
 <!--
 **evild70/evild70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
